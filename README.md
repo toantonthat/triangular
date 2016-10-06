@@ -5,7 +5,7 @@
 
 # Installation
 
-$ npm install --save perfect-number
+$ npm install --save triangular
 
 # Usage
 
