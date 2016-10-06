@@ -1,0 +1,23 @@
+{
+  "name": "rectangular",
+  "version": "1.0.0",
+  "description": "Rectangular library",
+  "main": "src/index.js",
+  "scripts": {
+    "pretest": "eslint src",
+    "test": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec --recursive --timeout 5000"
+  },
+  "keywords": [
+    "rectangular"
+  ],
+  "author": "ToanTT",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.14",
+    "eslint": "^3.7.1",
+    "istanbul": "^0.4.5",
+    "js-beautify": "^1.6.4",
+    "mocha": "^3.1.0"
+  }
+}
