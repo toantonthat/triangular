@@ -1,5 +1,5 @@
 {
-  "name": "rectangular",
+  "name": "triangular",
   "version": "1.0.0",
   "description": "Triangular library",
   "main": "src/index.js",
